@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "20194a5389be7363",
+    "type": "split",
+    "children": [
+      {
+        "id": "f45576b05ba2b348",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d0a583ac057c035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "プライベートメモ/株式会社RTTT/会社のお金の流れ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "会社のお金の流れ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6e0d5b982b04719",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a30ee487b882ef5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adb6d085639e0e71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "8caa40a07681384d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "4a8c52dba91b3e51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99a2a438f2c3d618",
+    "type": "split",
+    "children": [
+      {
+        "id": "d339b803449d70a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb3b92cebffc04ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "プライベートメモ/新規事業/長谷見さん婚活インタビューQ&A.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "長谷見さん婚活インタビューQ&Aへのバックリンク"
+            }
+          },
+          {
+            "id": "9543037cc2717693",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ようこそ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ようこそからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "6bdb3f5aabb6662a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "0af47663f31dc651",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "3f5222dbb454b1db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ようこそ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "ようこそのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "0d0a583ac057c035",
+  "lastOpenFiles": [
+    "プライベートメモ/新規事業/インタビュー結果まとめ.md",
+    "プライベートメモ/新規事業/インタビューから反映すること.md",
+    "プライベートメモ/新規事業/婚活インタビューQ&A.md",
+    "クイックメモ.md",
+    "プライベートメモ/新規事業/結婚相談所インタビュー質問集.md",
+    "プライベートメモ/株式会社RTTT/会社のお金の流れ.md",
+    "プライベートメモ/株式会社RTTT",
+    "プライベートメモ/新規事業",
+    "ようこそ.md",
+    "プライベートメモ",
+    "保存用.md"
+  ]
+}
